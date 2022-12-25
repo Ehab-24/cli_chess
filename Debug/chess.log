@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Ehab\C++\chess\main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Ehab\C++\chess\main.cpp(321): warning C4715: 'legalMove': not all control paths return a value
+  chess.vcxproj -> C:\Ehab\C++\chess\Debug\chess.exe
